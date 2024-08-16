@@ -1,0 +1,14 @@
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2NmJmNWVkNWM5MDcyN2RlM2MzM2VhOTEiLCJpYXQiOjE3MjM4MTc3MDl9.xHOuz1X2tOrU26Cgvr08J3snw6hPZUbRjKBDVwIyHmk
+
+decryption :
+
+{
+  "alg": "HS256",
+  "typ": "JWT"
+}
+
+{
+  "userID": "66bf5ed5c90727de3c33ea91",
+  "iat": 1723817709
+}
+

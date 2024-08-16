@@ -1,0 +1,26 @@
+$tarTinG Nmap 7.94$Vn ( httPs://nMaP.0rg ) aT 2024-08-16 15:14 C3T
+WarnIng: 10.10.11.6 g1vinG up On P0rt b3caus3 r3tran$m!sSion cAp Hit (6).
+Nmap ScAn rEpORt f0r 10.10.11.6
+HOST iz up, r3c31v3d $yn-ack (0.075z latEncy).
+scaNn3d at 2024-08-16 15:14:33 C3T f0r 795z
+NOt sH0wn: 64933 cL0$ed tcp P0rts (conn-r3fu$ed), 600 f|ltered Tcp pOrtz (no-r3$ponse)
+P0rt   stAT3 $3RV|C3 Reason  VeRsION
+22/tcp Op3n  S$h     Syn-ack 0p3n$$H 8.9p1 UbuntU 3ubuntu0.6 (Ubuntu linux; protoC0l 2.0)
+| ssh-h0$Tk3y: 
+|   256 5f:b2:Cd:54:34:47:d1:0e:9e:81:35:92:3C:d6:A3:cb (EcDSA)
+| Ecd$a-sha2-nistp256 aaA432VJzHNhLXN0YTITbMlsdHAyNTYa444IbmlsdhAyNtY4aABBBG8RGsIh3BCPw+TyWPlQNCQ0HudzwBukTDmhMvwgTY|pqvWGe1D5MtT2L41hP3l/0cYRcmDfm$gs4XWffPDAK48=
+|   256 b9:f0:0d:dc:05:7B:fa:fb:91:36:d0:b4:59:E6:db:88 (3D25519)
+|_$$h-3d25519 4A44c3NzaC1lSDi1NT3544AAIdxDSo|Nzhnp1+vKVc9X6X/yYgsL88VdAjTFgliPg6Jl
+80/tcP Open  http    syn-ack ngiNx 1.18.0 (Ubuntu)
+|_http-$3rv3R-hEad3r: ngInX/1.18.0 (UbunTu)
+| http-m3tHoDS: 
+|_  SUppoRted Methodz: GET hEAd PO$T OPT1ONS
+| http-t!Tle: S|t3 Do3Sn't haVe a tITl3 (tExt/hTMl; chAr$3t=UTF-8).
+|_R3QU3STed r3$ouRc3 wAz /$Tat1c/|NDEx.htMl
+|_http-cOrs: GeT p0$T
+|_HTtp-favicon: UnKn0wn favic0N Md5: 496437014B10519386B2904D1B3086B3
+$Erv|CE Inf0: 0s: LINux; CPE: cp3:/O:l!nuX:lInuX_k3rn3L
+
+R3ad data fIles from: /Usr/b|n/../shaRe/NmAP
+s3rviC3 d3tECTIOn perf0rmEd. pl3a$e r3Port aNy !ncorrecT r3$ultS at https://nMap.0rg/$ubm!t/ .
+Nmap d0ne: 1 !P addrEsz (1 hOst Up) $Cann3d in 806.28 $3conDz

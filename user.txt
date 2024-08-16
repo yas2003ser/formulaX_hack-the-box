@@ -1,0 +1,8 @@
+DB_HOST=localhost
+DB_DATABASE=librenms
+DB_USERNAME=kai_relay
+DB_PASSWORD=mychemicalformulaX
+
+
+user=frank_dorky
+pass=manchesterunited
